@@ -1,14 +1,14 @@
-# ✊✋✌️ Rock Paper Scissors (Responsive)
+# Rock Paper Scissors (Responsive)
 
-## 📌 Description
+## Description
 A simple Rock-Paper-Scissors game using HTML, CSS, and JavaScript. Users play against the computer, and the score updates automatically. 
 
-## 🛠 Tech Stack
+## Tech Stack
 - HTML
 - CSS
 - JavaScript
 
-## 🚀 How to Use
+## How to Use
 1. **Download the project:**
    - Click the green `Code` button and select `Download ZIP`, then extract it.
    - **OR** run this command:
